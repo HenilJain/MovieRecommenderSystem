@@ -1,14 +1,10 @@
 # MovieRecommenderSystem
-Generic model which recommends movies ( Content-based  tag) 
-
+Predicting ```Movies``` using Generic Models. Works on Tagged Based corpus and similarity metrix. 
 
 Release Date : 4-Apr-2022
 
 # Employee Attrition And Turnover Prediction
 [![Python](https://img.shields.io/pypi/pyversions/tensorflow.svg?style=plastic)](https://badge.fury.io/py/tensorflow)
-
-Predicting ```Attrition``` value using Machine Learning Models to solve Real-World Problems. 
-Comparitive Analysis between different models to determine the highest precision model. 
 
 ## Method:
 ```Conda
