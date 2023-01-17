@@ -5,3 +5,5 @@ Numpy
 Seaborn
 Matplotlib
 ntlk
+newspaper3k
+textblob
