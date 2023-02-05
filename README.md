@@ -6,9 +6,6 @@ Predicting ```Movies``` using Tagged Based corpus and cosine similarity metrix.
 Tag-based recommendation: generating better recommendations by incorporating tags into the recommendation process.
 Cosine similarity is a metric used to determine how similar the documents are irrespective of their size.
 Mathematically, Cosine similarity measures the cosine of the angle between two vectors projected in a multi-dimensional space.
-In this context, the two vectors I am talking about are arrays containing the word counts of two documents.
-When plotted on a multi-dimensional space, where each dimension corresponds to a word in the document, the cosine similarity captures the orientation (the angle) of the documents and not the magnitude.
-
 
 # Employee Attrition And Turnover Prediction
 [![Python](https://img.shields.io/pypi/pyversions/tensorflow.svg?style=plastic)](https://badge.fury.io/py/tensorflow)
