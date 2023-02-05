@@ -1,11 +1,9 @@
 # MovieRecommenderSystem
 Release Date : 2-Jan-2023
 
-Predicting ```Movies``` using Tagged Based corpus and cosine similarity metrix. 
+Predicting ```Movies``` using Tagged Based corpus and cosine similarity matrix. 
 
-Tag-based recommendation: generating better recommendations by incorporating tags into the recommendation process.
-Cosine similarity is a metric used to determine how similar the documents are irrespective of their size.
-Mathematically, Cosine similarity measures the cosine of the angle between two vectors projected in a multi-dimensional space.
+Following movie recommender system using cosine similarity matrix is a recommendation algorithm that suggests movies to users based on their past preferences and the similarity between movies' tags. The system calculates the cosine similarity between the user's past movie preferences and all the other movies in the dataset, with the similarity score indicating the degree of similarity between the two movies. A higher cosine similarity score between two movies indicates that the movies have similar tags and are likely to be of interest to the user. The system then uses this cosine similarity matrix to recommend movies to the user that have high similarity scores with the user's past movie preferences.
 
 # Employee Attrition And Turnover Prediction
 [![Python](https://img.shields.io/pypi/pyversions/tensorflow.svg?style=plastic)](https://badge.fury.io/py/tensorflow)
